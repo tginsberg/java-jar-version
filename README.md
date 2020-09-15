@@ -3,7 +3,7 @@
 This repo shows how to determine the vendor, application name, and version of a jar at 
 runtime. 
 
-To read more about this, [check out the post I wrote on my blog]((https://todd.ginsberg.com/post/what-version-is-this/).
+To read more about this, [check out the post I wrote on my blog](https://todd.ginsberg.com/post/what-version-is-this/).
 
 To build:
 
